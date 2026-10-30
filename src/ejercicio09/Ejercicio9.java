@@ -1,3 +1,5 @@
+package ejercicio09;
+
 import java.util.ArrayList; // Importa ArrayList para guardar una lista dinámica de medicamentos
 import java.util.Scanner;   // Importa Scanner para leer datos desde el teclado
 

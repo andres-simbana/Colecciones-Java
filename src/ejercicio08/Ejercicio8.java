@@ -1,3 +1,5 @@
+package ejercicio08;
+
 import java.util.Scanner; // Importa la clase Scanner para leer datos desde el teclado
 
 public class Ejercicio8 {

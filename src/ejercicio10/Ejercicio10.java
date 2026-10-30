@@ -1,3 +1,5 @@
+package ejercicio10;
+
 import java.util.ArrayList; // Importa ArrayList para guardar una lista dinámica de pedidos
 import java.util.Scanner;   // Importa Scanner para leer datos desde el teclado
 
